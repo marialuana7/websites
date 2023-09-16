@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div_imagem_capa{
+    margin-bottom: -3.8px;
+    margin: auto;
+    display: block;
+}
+
+.espaco_lados{
+    padding: 0px 2vw 2vw 2vw;
+
+}
+.imagemcapa{
+    max-width: 100%;
+}
+
+.bordapricipal{
+    background-color: rgb(229, 156, 168);
+}
+
+.botao{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 4px;
+}
+nav{
+    text-align: center;
+}
